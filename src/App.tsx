@@ -5,7 +5,8 @@ import './App.css'
 
 function App() {
   const [count, setCount] = useState(0)
-  console.log('reverted successfully')
+  console.log("commit 1")
+  console.log("commit 2")
   return (
     <>
       <div>
